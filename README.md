@@ -20,7 +20,7 @@
 </p>
 <p>So it is evident that to survive in such competitive market it is very important to startegically plan. Various factors need to be studied inorder to decide on the Location such as :</p>
 
-<p>New York Population</p>
+<li>New York Population</li>
     <li>New York City Demographics</li>
     <li>Are there any Farmers Markets, Wholesale markets etc nearby so that the ingredients can be purchased fresh to maintain quality and cost?</li>
     <li>Are there any venues like Gyms, Entertainmnet zones, Parks etc nearby where floating population is high etc</li>
