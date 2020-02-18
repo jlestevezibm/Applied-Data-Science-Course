@@ -19,9 +19,8 @@
     It is famous for not just Pizzerias, Cafe's but also for fine dining Michelin starred restaurants.The city is home to "nearly one thousand of the finest and most diverse haute cuisine restaurants in the world", according to Michelin.
 </p>
 <p>So it is evident that to survive in such competitive market it is very important to startegically plan. Various factors need to be studied inorder to decide on the Location such as :</p>
-    <ul>
 
-    <li>New York Population</li>
+<p>New York Population</p>
     <li>New York City Demographics</li>
     <li>Are there any Farmers Markets, Wholesale markets etc nearby so that the ingredients can be purchased fresh to maintain quality and cost?</li>
     <li>Are there any venues like Gyms, Entertainmnet zones, Parks etc nearby where floating population is high etc</li>
@@ -30,7 +29,7 @@
     <li>Segmentation of the Borough</li>
     <li>Untapped markets</li>
 
-</ul>
+
 
 <p>Eventhough well funded XYZ Company Ltd. need to choose the correct location to start its first venture.If this is successful they can replicate the same in other locations. First move is very important, thereby choice of location is very important.</p>
 
